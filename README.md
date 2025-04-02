@@ -78,13 +78,13 @@ We have provided the datasets as CSV files.
 
 Download the file from the DropBox folder:
 
-* Dataset for the non-synchronized HeLa cells [R-DeeP_HeLa_NS](https://www.dropbox.com/scl/fi/rc2108mmasg0o6ohmreu2/RDeeP_HeLa_NS.csv?rlkey=5hdwymcqas9ihhyj9nkgj5z73&dl=0)  
+* Dataset for the non-synchronized HeLa cells [R-DeeP_HeLa_NS](https://hub.dkfz.de/s/JRcQYfLH3ytcG8H)  
 
-* Dataset for the mitotic HeLa cells [R-DeeP_HeLa_Mitosis](https://www.dropbox.com/scl/fi/ymml03vygo5fpz91s8ieg/RDeeP_HeLa_Mitosis.csv?rlkey=hrs7v0mcnfl2stzluvf9jzeh1&dl=0)  
+* Dataset for the mitotic HeLa cells [R-DeeP_HeLa_Mitosis](https://hub.dkfz.de/s/McB3ZPEiMajqDQ8)  
 
-* Dataset for the interphasic HeLa cells [R-DeeP_HeLa_Interphase](https://www.dropbox.com/scl/fi/bapp6lvlcj4vsqy22jxfd/RDeeP_HeLa_Interphase.csv?rlkey=u4zcnzzoqp2daqfcthvijubtu&dl=0)  
+* Dataset for the interphasic HeLa cells [R-DeeP_HeLa_Interphase](https://hub.dkfz.de/s/Qdg5Yb5ymgs4Kkk)  
 
-* Dataset for the non-synchronized A549 cells [R-DeeP_A549_NS](https://www.dropbox.com/scl/fi/eh9kiwiqj62bqtdzwj1x2/RDeeP_A549_NS.csv?rlkey=pdbm6wd9zbdtomhek7nzahrsl&dl=0)  
+* Dataset for the non-synchronized A549 cells [R-DeeP_A549_NS](https://hub.dkfz.de/s/GbCFW5TqPP49gr7)  
 
 Load the file as showed below for the non-synchronized HeLa cells (RDeeP_HeLa_NS.csv):
 You need to indicate the path to the directory where you stored the dataset (.csv file) by replacing the **path/to/your/directory/** as shown below accordingly!
