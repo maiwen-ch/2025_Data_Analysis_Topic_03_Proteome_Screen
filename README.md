@@ -1,6 +1,7 @@
 Supervisor: 
 
-* Maïwen Caudron-Herger (m.caudron@dkfz.de)
+* Maïwen Caudron-Herger <m.caudron@dkfz.de>
+* Tutorin: tba
 
 <hr style="background-color: black;height: 1.0px;"/>
 
