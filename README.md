@@ -1,7 +1,7 @@
 Supervisor: 
 
 * Maïwen Caudron-Herger <m.caudron@dkfz.de>
-* Tutorin: tba
+* Tutorin: Michaela Pozzi <M.Pozzi@stud.uni-heidelberg.de>
 
 <hr style="background-color: black;height: 1.0px;"/>
 
@@ -126,9 +126,13 @@ Read these reviews to gain some understanding of RNA-binding proteins and their 
 
 The original R-DeeP publication and its associated protocol can help you understanding the concept of RNA dependence and the analysis of the mass spectrometry data.
 
-* [Caudron-Herger et al., R-DeeP: Proteome-wide and Quantitative Identification of RNA-Dependent Proteins by Density Gradient Ultracentrifugation, 2019, Molecular Cell](https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30310-7)
+* [Caudron-Herger et al., R-DeeP: Proteome-wide and Quantitative Identification of RNA-Dependent Proteins by Density Gradient Ultracentrifugation, 2019, Molecular Cell](https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30310-7)  
 
-* [Caudron-Herger et al., Identification, quantification and bioinformatic analysis of RNA-dependent proteins by RNase treatment and density gradient ultracentrifugation using R-DeeP, 2020, Nature Protocols](https://www.nature.com/articles/s41596-019-0261-4)
+* [Caudron-Herger et al., Identification, quantification and bioinformatic analysis of RNA-dependent proteins by RNase treatment and density gradient ultracentrifugation using R-DeeP, 2020, Nature Protocols](https://www.nature.com/articles/s41596-019-0261-4)  
+
+* [Rajagopal, V. et al. Proteome-Wide Identification of RNA-Dependent Proteins in Lung Cancer Cells. Cancers 14, 6109 (2022)](https://doi.org/10.3390/cancers14246109)  
+
+* [Rajagopal et al., An atlas of RNA-dependent proteins in cell division reveals the riboregulation of mitotic protein-protein interactions. Nat. Commun. 16, 2325 (2025)](https://doi.org/10.1038/s41467-025-57671-3)  
 
 #### Helpful databases
 
