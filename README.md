@@ -1,7 +1,7 @@
 Supervisor: 
 
 * Maïwen Caudron-Herger <m.caudron@dkfz.de>
-* Tutorin: Michaela Pozzi <M.Pozzi@stud.uni-heidelberg.de>
+* Tutorin: Michela Pozzi <M.Pozzi@stud.uni-heidelberg.de>
 
 <hr style="background-color: black;height: 1.0px;"/>
 
@@ -60,7 +60,7 @@ The objective of this project is to **perform the analysis** of the mass spectro
 
 * **Further analysis** of the RNA-dependent proteins and RNA-independent proteins
 
-* Make a **coherent report** of your complete analysis and results using R markdown
+* Make a **coherent script** of your complete analysis and results using R markdown
 
 <div class="figure" style="text-align: center">
 <img src="Quantitative_Analysis.png" alt="Fig. 3 - Quantitative analysis" width="50%" />
